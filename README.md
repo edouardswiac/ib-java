@@ -2,4 +2,4 @@
 
 Mirror of the [Interactive Brokers Java API](https://www.interactivebrokers.com/en/index.php?f=5041). 
 
-The available API versions are tagged. The correspoding artifacts are available as jar dependencies via [JitPack.io](https://jitpack.io/#edouardswiac/ib-java)
+The available API versions are tagged. The corresponding jar artifacts are available via [JitPack.io](https://jitpack.io/#edouardswiac/ib-java)
